@@ -1,20 +1,20 @@
-# 2D Karakter Kontrolü ve Yapay Zeka Projesi
+# 2D Character Control and Artificial Intelligence Project
 
-Bu proje, C# dilinde basit 2D karakter kontrolleri ve yapay zeka örneği içerir. Projenin amacı, bir karakterin klavye girişlerine göre hareket etmesini sağlamak ve bir yapay zekanın belirli bir alanda ana karakteri takip etmesini sağlamaktır.
+This project contains an example of simple 2D character controls and artificial intelligence in C#. The goal of the project is to make a character move according to keyboard inputs and to make an AI follow the main character in a given area.
 
-## Kurulum
+## Installation
 
-1. Projeyi klonlayın: `git clone https://github.com/kullaniciadı/proje.git`
-2. Unity veya benzeri bir oyun motoru ortamında projeyi açın.
-3. Oyun sahnesini çalıştırın.
+1. Clone the project: `git clone https://github.com/kullaniciadı/proje.git`
+2. Open the project in Unity or a similar game engine environment.
+3. Run the game scene.
 
-## Kullanım
+## Usage
 
-- Karakter kontrolleri için, klavyenizdeki yön tuşlarını kullanarak karakteri hareket ettirebilirsiniz.
-- Yapay zekanın ana karakteri takip etmesi için, yapay zeka nesnesini ana karakterin etrafına yerleştirin. Yapay zeka, ana karakteri algıladığında ona doğru hareket edecektir.
+- For character controls, use the directional keys on your keyboard to move the character.
+- For the AI to follow the main character, place the AI object around the main character. When the AI detects the main character, it will move towards it.
 
-## Katkıda Bulunma
+## Contributing
 
-1. Bu depoyu fork edin.
-2. Yapmak istediğiniz değişiklikleri yapın.
-3. Değişikliklerinizi açıklayan bir pull request gönderin.
+1. Fork this repository.
+2. Make the changes you want to make.
+3. Send a pull request describing your changes.
